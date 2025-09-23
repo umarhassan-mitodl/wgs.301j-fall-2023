@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1c5684a0-0660-69a8-c567-f5918f5cb3a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "462467f4-b10d-4e52-82fc-d4dacda5024a",
+    "website": "feminist-thought"
+  },
+  "course_title": "Feminist Thought",
+  "hide_download": false,
+  "course_description": "This course analyzes theories of gender and politics, especially ideologies of gender and their construction; definitions of public and private spheres; and gender issues in citizenship, the development of the welfare state, experiences of war and revolution, class formation, and the politics of sexuality.",
+  "department_numbers": [
+    "WGS",
+    "17",
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.301J",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "feminist-thought"
+  },
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "e717b23f-0490-4b46-a879-65f08f47d6b0",
+  "site_short_id": "wgs.301j-fall-2023",
+  "site_url_path": "courses/wgs-301j-feminist-thought-fall-2023"
+}

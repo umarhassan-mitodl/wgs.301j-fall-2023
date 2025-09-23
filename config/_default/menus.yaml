@@ -1,0 +1,57 @@
+leftnav:
+- identifier: aac46135-60b3-4a3b-a0ac-89dd5595ff74
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: bb46792d-82cc-4b02-aef9-49a341e1b3bc
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: fcabd767-61fe-4918-9a73-d30794f8c3b7
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: b840a783-fd2e-4b9c-9603-f0bfdbf40606
+  name: Keyword Exercise
+  pageRef: /pages/keyword-exercise
+  parent: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  weight: 10
+- identifier: e539d470-c253-444c-a80a-0d038da0bc06
+  name: Research Plan
+  pageRef: /pages/research-plan
+  parent: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  weight: 20
+- identifier: c2eb5b0c-bfe6-49fc-b3a8-530d2f213011
+  name: Some Thoughts on Writing Outlines
+  pageRef: /pages/some-thoughts-on-writing-outlines
+  parent: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  weight: 30
+- identifier: b1f2bbd9-c8bc-44da-836b-670defb6402b
+  name: 'Oral Presentation '
+  pageRef: /pages/oral-presentation
+  parent: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  weight: 40
+- identifier: 5d1d1195-35c0-4632-8633-09a792df9bc8
+  name: Final Research Paper
+  pageRef: /pages/final-research-paper
+  parent: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  weight: 50
+- identifier: c13186a3-2b62-4bf5-91cb-d5dc77056edd
+  name: Student Examples
+  pageRef: /pages/student-examples
+  parent: b353eb4c-72ab-4ca4-bdd9-f906f01460ac
+  weight: 60
+- identifier: cfc1efa8-7648-4f08-92a2-eb5ea76890ea
+  name: Sample Keywords
+  pageRef: /pages/sample-keywords
+  parent: b840a783-fd2e-4b9c-9603-f0bfdbf40606
+  weight: 10
+- identifier: d5f59487-378b-40c7-aaff-ca25e360919c
+  name: "Beginnings, Middles, and Ends:\_Some Writing Tips for Feminist Thought"
+  pageRef: /pages/beginnings-middles-and-ends-some-writing-tips-for-feminist-thought
+  parent: 5d1d1195-35c0-4632-8633-09a792df9bc8
+  weight: 10
