@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "A LEGO figurine of author Anne Fausto-Sterling stands upon her book *Myths\
     \ of Gender.* Fausto-Sterling\u2019s writings on sex and gender are amongst the\
-    \ readings for this course. (Image courtesy of {{% resource_link \"452ae2ba-733b-4645-b4e7-cf7acbc66155\"\
-    \ \"Maia Weinstock\" %}} on Flickr. License: CC BY-NC-SA.)"
+    \ readings for this course. (Image courtesy of [Maia Weinstock](https://www.flickr.com/photos/pixbymaia/8463575378/in/photolist-dTU36q-dTNnxR-dYe69c)\
+    \ on Flickr. License: CC BY-NC-SA.)"
   credit: ''
   image-alt: A small, plastic figure of a grey-haired woman stands upon the cover
     of a book.
