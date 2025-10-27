@@ -26,7 +26,7 @@
     "website": "feminist-thought"
   },
   "course_title": "Feminist Thought",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course analyzes theories of gender and politics, especially ideologies of gender and their construction; definitions of public and private spheres; and gender issues in citizenship, the development of the welfare state, experiences of war and revolution, class formation, and the politics of sexuality.",
   "department_numbers": [
     "WGS",
@@ -39,7 +39,6 @@
     "content": "",
     "website": "feminist-thought"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Readings",
     "Written Assignments with Examples"

@@ -17,37 +17,37 @@ Over the course of the semester, each of you will also make a brief presentation
 
 Here are some recommended sources for researching your keywords.  
 
-[The Oxford English Dictionary](https://www.oed.com/?tl=true)
+{{% resource_link "3863ec96-98bc-4457-b768-38e15e25606d" "The Oxford English Dictionary" %}}
 
 - Ex:  In the Historical Thesaurus under “diversity” you can find out, for example, that in the years 1475–1523, it meant “Opposition to what is what is right, good, or beneficial; perversity, evil. Also as a count noun: an evil or harmful act; an adverse circumstance. *Obs.”*
 
-[Ngrams](https://books.google.com/ngrams/)
+{{% resource_link "d010fb77-cb8a-4d38-a361-97defe4dc839" "Ngrams" %}}
 
 - This site shows uses of particular words in books. Try to determine the changing distribution of the word you have chosen.  
 
-[HathiTrust](https://www.hathitrust.org/)
+{{% resource_link "cc72272f-7846-4b85-9e9c-2c0f577435cd" "HathiTrust" %}}
 
 - Try to determine what subjects in what disciplines have used your word and what its different meanings might be in those different disciplines. 
 
-[Web of Science](https://clarivate.libguides.com/home)
+{{% resource_link "3a62518a-50d4-4772-a978-baa880b50f7a" "Web of Science" %}}
 
 - This is more focused on contemporary articles than Hathi Trust (which prioritizes books published before 1920), but you can conduct similar searches.
 
-[PhilPapers](https://philpapers.org/)
+{{% resource_link "ecc217b6-8c5d-4859-97ec-9fb0903b0670" "PhilPapers" %}}
 
 - You might ask how philosophers are using your keyword.    
 
-[Archives of Sexuality and Gender](https://www.gale.com/primary-sources/archives-of-sexuality-and-gender)
+{{% resource_link "9722ab4c-a5a6-46e4-8c41-1a87b55682d9" "Archives of Sexuality and Gender" %}}
 
 - This source has monographs, manuscripts, news articles, and occasionally photographs. 
 
-[Gender Studies Database](https://www.ebsco.com/products/research-databases/gender-studies-database)
+{{% resource_link "8aa49a74-1c09-4ebc-ae2a-dda9bad9335e" "Gender Studies Database" %}}
 
-[Wikipedia](https://www.wikipedia.org/)  
+{{% resource_link "42e0e508-46d6-4a65-ad87-0811052d7763" "Wikipedia" %}}  
 
 - If you use Wikipedia, I will expect you to provide criticism of what is and is not included, how terms are used, what might be “whitewashed” or glossed over.  
 
-[AllSides](https://www.allsides.com/media-bias/ratings)
+{{% resource_link "b0053d48-3630-494a-95cd-223e6bdceb4d" "AllSides" %}}
 
 - For differences in bias in media.
 
@@ -61,8 +61,8 @@ Enjoy this project!
 
 ## Other references
 
-Raymond Williams, *Keywords: A Vocabulary of Culture and Society* (Oxford University Press, 2014). 978-0199393213. \[Preview with [Google Books](https://www.google.com/books/edition/Keywords/E4PnCwAAQBAJ?hl=en&gbpv=1)\]
+Raymond Williams, *Keywords: A Vocabulary of Culture and Society* (Oxford University Press, 2014). 978-0199393213. \[Preview with {{% resource_link "a0d10be5-7b14-453f-8c9c-e1857d794d1a" "Google Books" %}}\]
 
-Tony Bennett, Lawrence Grossberg, Meaghan Morris, eds. *New Keywords : A Revised Vocabulary of Culture and Society* (Wiley-Blackwell, 2013). 978-1118725412. \[Preview with [Google Books](https://www.google.com/books/edition/New_Keywords/UrqMFMdNNbwC?hl=en&gbpv=1)\]
+Tony Bennett, Lawrence Grossberg, Meaghan Morris, eds. *New Keywords : A Revised Vocabulary of Culture and Society* (Wiley-Blackwell, 2013). 978-1118725412. \[Preview with {{% resource_link "be62dafd-a38e-4017-ac08-57d089310b77" "Google Books" %}}\]
 
-Jenni Nuttall, *Mother Tongue: The Surprising History of Women's Words* (Viking, 2023). 978-0593299579. \[Preview with [Google Books](https://www.google.com/books/edition/Mother_Tongue/64meEAAAQBAJ?hl=en&gbpv=1)\]
+Jenni Nuttall, *Mother Tongue: The Surprising History of Women's Words* (Viking, 2023). 978-0593299579. \[Preview with {{% resource_link "55f840a7-4f93-4645-9ec4-7f9ea9c7ddb6" "Google Books" %}}\]
