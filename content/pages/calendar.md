@@ -17,7 +17,7 @@ Session 2: How do we think about and experience feminist theory? 
 
 Session 3: Tools of feminist theory   
 
-*Guest speaker: Librarian Jen Greenleaf,* [*MIT Libraries*](https://libraries.mit.edu/)
+*Guest speaker: Librarian Jen Greenleaf,* {{% resource_link "7d082782-20f7-4854-9cb0-b6ed62fbf692" "*MIT Libraries*" %}}
 
 *Thinking assignment: Start thinking about the topic you would like to address in your final paper for this semester. In the first half of class Jen will lead a workshop on identifying a topic and beginning your research.*
 
@@ -25,7 +25,7 @@ Session 3: Tools of feminist theory   
 
 Session 4: Social construction
 
-*Guest speaker: Philosophy Professor* [*Sally Haslanger*](https://philosophy.mit.edu/haslanger/)
+*Guest speaker: Philosophy Professor* {{% resource_link "2adc9a0d-fb71-4eb6-a6ee-1b8676dc3cef" "*Sally Haslanger*" %}}
 
 *Post 1–2 discussion questions before class.*
 
@@ -85,7 +85,7 @@ Session 15: Gender and the social construction of the welfare state 
 
 Session 16: Militarism and gender
 
-*Guest speaker:* [*Carol Cohn*](https://genderandsecurity.org/who-we-are/staff/carol-cohn)
+*Guest speaker:* {{% resource_link "ceee3e92-9d05-4fae-9cff-c71de5fa099d" "*Carol Cohn*" %}}
 
 *Discussion question:  Post 1–2 questions for Carol Cohn*
 
@@ -93,7 +93,7 @@ Session 16: Militarism and gender
 
 Session 17: Twelve Feminist Lessons of War
 
-*Guest speaker:* [*Cynthia Enloe*](https://www.clarku.edu/faculty/profiles/cynthia-enloe/)
+*Guest speaker:* {{% resource_link "3214c45b-331b-44c0-93b5-b580c8422d89" "*Cynthia Enloe*" %}}
 
 Session 18: Public Event: “Has Feminism Made Progress?” with Mary Harrington and Professor Anne McCants
 
